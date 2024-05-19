@@ -1,0 +1,248 @@
+
+.korobka{
+    height: 68vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.korobkac{
+    height: 55vh;
+    margin: 45px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.korobka1{
+    height: 110vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    background-color: #f7f7f7;
+    display: flex;
+    color: #638889;
+    height: 99vh;
+}
+.hero1{
+    background-color: #f7f7f7;
+    display: flex;
+    color: #638889;
+    align-items: center;
+    padding: 0 50px;
+    height: 40px;
+}
+h1{
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    font-size: 100px;
+    margin: 15px 0 15px 0;
+}
+h2{
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    font-size: 30px;
+    margin: 0;
+}
+img{
+    z-index: 2;
+    width: 500%;
+    margin: 0 -36px 0 70px;
+}
+.logo1{
+    text-decoration: none;
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    color: black;
+    font-size: 30px;
+    margin: 0 50px 0 50px;
+    font-weight: bold;
+}
+.logo2{
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    color: black;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 0 50px 0 50px;
+}
+.logo3{
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    color: black;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 0 50px 0 50px;
+}
+.prizrak{
+    width: 80px;
+    position: absolute;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    height: 100px;
+}
+.logo{
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0 50px 0 50px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 0 0 50px;
+}
+.krug{
+    z-index: 1;
+    top: 140px;
+    left: calc(50% + 50px);
+    position: absolute;
+    width: 690px;
+    height: 690px;
+    background: #414a4a;
+    background: linear-gradient(60deg, rgb(210, 210, 210) 0%, #4c5e5e 100%);
+    border-radius: 100%;   
+}
+.text{
+    height: 300px;
+    text-align: center;
+}
+.gzho{
+    height: 20%;
+}
+.img1{
+    z-index: 4;
+    position: absolute;
+    width: 20px;
+    height: auto;
+    margin-top: 35px;
+    margin-left: 800px;
+}
+.navbar1{
+    margin: 20px 100px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    height: 80px;
+}
+.korobka2{
+    height: 68vh;
+    margin: 15px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text1{
+    width: 700px;
+    text-align: center;
+}
+.text1-s{
+    position: relative;
+    height: 100%;
+    margin-left: -5px;
+    width: 600px;
+    text-align: center;
+}
+.korobka2-s{
+    height: 68vh;
+    margin: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skills-img{
+    position: absolute;
+    width: 180px;
+    height: auto;
+    margin-top: 180px;
+    margin-right: 1350px;
+}
+.skills-img-1{
+    position: absolute;
+    width: 180px;
+    height: auto;
+    margin-top: 175px;
+    margin-right: -320px;
+}
+.text1-s-1{
+    width: 150px;
+    text-align: center;
+}
+.korobka2-p{
+    height: 68vh;
+    margin: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text1-p{
+    position: relative;
+    height: 100%;
+    margin-left: -5px;
+    width: 600px;
+    text-align: center;
+}
+.projects-img{
+    position: absolute;
+    width: 180px;
+    height: auto;
+    margin-top: 240px;
+    margin-right: 1650px;
+}
+.projects-img-1{
+    position: absolute;
+    width: 180px;
+    height: auto;
+    margin-top: 195px;
+    margin-right: -150px;
+}
+.korobka2-a{
+    height: 68vh;
+    margin: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text1-a{
+    position: relative;
+    height: 100%;
+    margin-left: -5px;
+    width: 600px;
+    text-align: center;
+}
+.ach-img{
+    z-index: 1;
+    position: absolute;
+    width: 200px;
+    height: auto;
+    margin-top: 240px;
+    margin-right: 1780px;
+}
+.ach-img-1{
+    z-index: 4;
+    position: absolute;
+    width: 170px;
+    height: auto;
+    margin-top: 195px;
+    margin-right: -60px;
+}
